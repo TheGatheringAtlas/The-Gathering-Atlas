@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://thegatheringatlas.github.io/GatheringAtlasWebsite/sitemap.xml
